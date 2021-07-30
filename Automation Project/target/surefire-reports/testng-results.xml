@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-30T16:21:45Z" name="com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite" finished-at="2021-07-30T16:22:04Z" duration-ms="19119">
+    <groups>
+    </groups>
+    <test started-at="2021-07-30T16:21:45Z" name="Command line test" finished-at="2021-07-30T16:22:04Z" duration-ms="19119">
+      <class name="com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite">
+        <test-method is-config="true" signature="setUpBeforeClass()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:45Z" name="setUpBeforeClass" finished-at="2021-07-30T16:21:48Z" duration-ms="2362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:48Z" name="setUp" finished-at="2021-07-30T16:21:50Z" duration-ms="2240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createAComputerWithInvalidComputerName()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:50Z" name="createAComputerWithInvalidComputerName" finished-at="2021-07-30T16:21:52Z" duration-ms="1797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAComputerWithInvalidComputerName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:52Z" name="tearDown" finished-at="2021-07-30T16:21:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:52Z" name="setUp" finished-at="2021-07-30T16:21:53Z" duration-ms="1023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createAComputerWithValidAndInvalidValue()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:53Z" name="createAComputerWithValidAndInvalidValue" finished-at="2021-07-30T16:21:54Z" duration-ms="1540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAComputerWithValidAndInvalidValue -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:54Z" name="tearDown" finished-at="2021-07-30T16:21:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:54Z" name="setUp" finished-at="2021-07-30T16:21:55Z" duration-ms="562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createANewComputer()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:55Z" name="createANewComputer" finished-at="2021-07-30T16:21:57Z" duration-ms="1872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createANewComputer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:57Z" name="tearDown" finished-at="2021-07-30T16:21:57Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:57Z" name="setUp" finished-at="2021-07-30T16:21:57Z" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteComputerInformation()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:57Z" name="deleteComputerInformation" finished-at="2021-07-30T16:21:59Z" duration-ms="2209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteComputerInformation -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:59Z" name="setUp" finished-at="2021-07-30T16:22:00Z" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:21:59Z" name="tearDown" finished-at="2021-07-30T16:21:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="getDataForValidComputerName()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:22:00Z" name="getDataForValidComputerName" finished-at="2021-07-30T16:22:01Z" duration-ms="863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataForValidComputerName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:22:01Z" name="tearDown" finished-at="2021-07-30T16:22:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:22:01Z" name="setUp" finished-at="2021-07-30T16:22:01Z" duration-ms="554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="updateComputerInformation()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:22:01Z" name="updateComputerInformation" finished-at="2021-07-30T16:22:04Z" duration-ms="2323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateComputerInformation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:22:04Z" name="tearDown" finished-at="2021-07-30T16:22:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownAfterClass()[pri:0, instance:com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite@1786f9d5]" started-at="2021-07-30T16:22:04Z" name="tearDownAfterClass" finished-at="2021-07-30T16:22:04Z" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterClass -->
+      </class> <!-- com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.everlight.tests.computerdatabase.computerDatabaseTestSuite -->
+</testng-results>

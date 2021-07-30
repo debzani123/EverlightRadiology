@@ -1,0 +1,8 @@
+com\qa\everlight\computerDatabase\pages\AddAComputerPage.class
+com\qa\everlight\jsalert\pages\JSAlertPage.class
+com\qa\everlight\computerDatabase\pages\BasePage.class
+com\qa\everlight\tests\BaseTestSuite.class
+com\qa\everlight\computerDatabase\pages\EditComputerPage.class
+com\qa\everlight\tests\computerdatabase\computerDatabaseTestSuite.class
+com\qa\everlight\tests\jsalert\JsAlertTestSuite.class
+com\qa\everlight\computerDatabase\pages\HomePage.class
